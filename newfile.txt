@@ -2,5 +2,10 @@ Hello ME!
 
 Adding some new words!
 
-changing brach
+changing branch
+
+new Commit
+
+one more Commit
+
 
